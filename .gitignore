@@ -1,6 +1,0 @@
-*.class
-*.metadata/
-*.log
-target/
-*.iml
-.idea/
